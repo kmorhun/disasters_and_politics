@@ -1,2 +1,4 @@
 .conda
 *.lock
+*.DS_Store
+*.venv
